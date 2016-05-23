@@ -1,8 +1,9 @@
-###Code Book
-##ID Fields
+###ode Book
+##D Fields
 
-#subject - The participant ("subject") ID
-#activity - The label of the activity performed when the corresponding measurements were taken
+subject - The participant ("subject") ID
+activity - The label of the activity performed when the corresponding measurements were taken
+
 ##Extracted Feature Fields
 
 *tBodyAcc-mean()-X (column 1)
